@@ -3,7 +3,13 @@ itamar.sh
 
 ![alt text](assets/images/screenshot.png)
 
-![alt text](assets/DARK_BG2_small.jpeg)
+![alt text](./assets/DARK_BG2_small.jpeg)
+
+![alt text](./assets/ball.png)
+
+![alt text](assets/ball.png)
+
+![alt text](OOP-Course/BrickerGame - ex3/assets//ball.png)
 
 
 1) BrickerGameManager - we create all the objects required for the beggining. including strategy for every brick.
