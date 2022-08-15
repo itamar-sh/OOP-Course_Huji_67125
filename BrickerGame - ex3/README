@@ -1,5 +1,4 @@
 itamar.sh
-315092759
 
 1) BrickerGameManager - we create all the objects required for the beggining. including strategy for every brick.
 the method initializeGame calls methods with the template of "create XXX" to create XXX objects.
