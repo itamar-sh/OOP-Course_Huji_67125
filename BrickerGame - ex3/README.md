@@ -1,11 +1,38 @@
 ## Classic Bricker Game
 
-### Its how the game look like:
+### This is what the game looks like:
 <img
   src="images/Screenshot_1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 10px">
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+ <img
+  src="images/Screenshot_2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+   <img
+  src="images/Screenshot_3.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+  <img
+  src="images/Screenshot_4.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+ <img
+  src="images/Screenshot_5.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+   <img
+  src="images/Screenshot_6.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="330" height="300">
+  
+## Classes Explanation:
 
 ### BrickerGameManager
 We create all the objects required for the initialization of the game. Including strategy for every brick.
