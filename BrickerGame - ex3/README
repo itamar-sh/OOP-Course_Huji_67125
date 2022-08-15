@@ -9,7 +9,11 @@ itamar.sh
 
 ![alt text](assets/ball.png)
 
-![alt text](OOP-Course/BrickerGame - ex3/assets//ball.png)
+![alt text](OOP-Course/BrickerGame - ex3/assets/ball.png)
+
+![alt text](../BrickerGame - ex3/assets/ball.png)
+
+![alt text](../assets/ball.png)
 
 
 1) BrickerGameManager - we create all the objects required for the beggining. including strategy for every brick.
