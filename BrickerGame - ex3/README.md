@@ -1,25 +1,6 @@
 itamar.sh
 315092759
 
-![alt text](assets/images/screenshot.png)
-
-![alt text](./assets/DARK_BG2_small.jpeg)
-
-![alt text](./assets/ball.png)
-
-![alt text](assets/ball.png)
-
-https://github.com/itamar-sh/OOP-Course/blob/main/BrickerGame%20-%20ex3/assets/ball.png
-
-![alt text](OOP-Course/BrickerGame - ex3/assets/ball.png)
-
-![alt text](../BrickerGame - ex3/assets/ball.png)
-
-![alt text](../assets/ball.png)
-
-![alt text](https://github.com/itamar-sh/OOP-Course/blob/main/BrickerGame%20-%20ex3/assets/ball.png)
-
-
 1) BrickerGameManager - we create all the objects required for the beggining. including strategy for every brick.
 the method initializeGame calls methods with the template of "create XXX" to create XXX objects.
 in the update method we deal with disposing non relevant objects and check for the end of the game.
