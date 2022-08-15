@@ -1,6 +1,11 @@
 itamar.sh
 315092759
 
+![alt text](assets/images/screenshot.png)
+
+![alt text](assets/DARK_BG2_small.jpeg)
+
+
 1) BrickerGameManager - we create all the objects required for the beggining. including strategy for every brick.
 the method initializeGame calls methods with the template of "create XXX" to create XXX objects.
 in the update method we deal with disposing non relevant objects and check for the end of the game.
