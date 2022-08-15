@@ -4,12 +4,42 @@ Design Patterns, Generics, Collections, nested classes and functional interfaces
 ## Ex3 
 Exercise 3 of the course was foucsed on building simple OOP game:
 
--- insert pictures of the game -- 
+ <img
+  src="BrickerGame - ex3/images/Screenshot_1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  <img
+  src="BrickerGame - ex3/images/Screenshot_2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  <img
+  src="BrickerGame - ex3/images/Screenshot_3.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  <img
+  src="BrickerGame - ex3/images/Screenshot_4.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  <img
+  src="BrickerGame - ex3/images/Screenshot_5.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  <img
+  src="BrickerGame - ex3/images/Screenshot_6.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+
 
 ## Ex4 
 Exercise 4 was more similliar to image processing task:
 
--- insert pictures -- 
+-- insert pictures of the game -- 
 
 ## Ex5
 Exercise 5, the final challenge of the course took us one step ahead.
