@@ -15,11 +15,6 @@ Exercise 3 of the course was foucsed on building simple OOP game:
   title="Optional title"
   style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
-  src="BrickerGame - ex3/images/Screenshot_3.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="145" height="145">
-  <img
   src="BrickerGame - ex3/images/Screenshot_4.png"
   alt="Alt text"
   title="Optional title"
