@@ -3,7 +3,36 @@
 The Project was made by Gil Karin and Itamar Shehcter.
 
 ## How it looks like:
- -- insert pics -- 
+ <img
+  src="images/Screenshot_1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;" width="700" height="500">
+ <img
+ src="images/Screenshot_5.png"
+ alt="Alt text"
+ title="Optional title"
+ style="display: inline-block; margin: 0 auto;" width="700" height="500">
+  <img
+ src="images/Screenshot_12.png"
+ alt="Alt text"
+ title="Optional title"
+ style="display: inline-block; margin: 0 auto;" width="700" height="500">
+  <img
+ src="images/Screenshot_15.png"
+ alt="Alt text"
+ title="Optional title"
+ style="display: inline-block; margin: 0 auto;" width="700" height="500">
+  <img
+ src="images/Screenshot_18.png"
+ alt="Alt text"
+ title="Optional title"
+ style="display: inline-block; margin: 0 auto;" width="700" height="500">
+   <img
+ src="images/Screenshot_16.png"
+ alt="Alt text"
+ title="Optional title"
+ style="display: inline-block; margin: 0 auto;" width="700" height="500">
  
 ## A little bit about the design:
 
