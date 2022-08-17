@@ -8,32 +8,32 @@ Exercise 3 of the course was foucsed on building simple OOP game:
   src="BrickerGame - ex3/images/Screenshot_1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
   src="BrickerGame - ex3/images/Screenshot_2.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
   src="BrickerGame - ex3/images/Screenshot_3.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
   src="BrickerGame - ex3/images/Screenshot_4.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
   src="BrickerGame - ex3/images/Screenshot_5.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
   <img
   src="BrickerGame - ex3/images/Screenshot_6.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;" width="150" height="150">
+  style="display: inline-block; margin: 0 auto;" width="145" height="145">
 
 
 ## Ex4 
