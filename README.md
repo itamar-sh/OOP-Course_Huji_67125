@@ -1,6 +1,9 @@
 # OOP-Course
 Design Patterns, Generics, Collections, nested classes and functional interfaces.
 
+## Hits Counter:
+[![HitCount](https://hits.dwyl.com/itamar-sh/OOP-Course_Huji_67125.svg?style=flat-square)](http://hits.dwyl.com/itamar-sh/OOP-Course_Huji_67125)
+
 ## Ex3 
 Exercise 3 of the course was foucsed on building simple OOP game:
 
